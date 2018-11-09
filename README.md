@@ -1,2 +1,3 @@
 # my-first-github
-i don't like this!
+It is not easy!
+It is very difficult!
